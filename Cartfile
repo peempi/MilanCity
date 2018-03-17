@@ -1,0 +1,2 @@
+#For API
+github "Alamofire/Alamofire" ~> 4.5
