@@ -1,0 +1,13 @@
+{
+  "commitish" : "5.5.5",
+  "iOS" : [
+    {
+      "name" : "EVReflection",
+      "hash" : "00cbda6e96d32402891df39f99acf187a4bd80f6d0a1b21fce888b368666c100"
+    },
+    {
+      "name" : "EVReflection_CloudKit",
+      "hash" : "fe778584df655dc0e2b922553c771f3e93ae392c8461e46344bf010a32e8b887"
+    }
+  ]
+}

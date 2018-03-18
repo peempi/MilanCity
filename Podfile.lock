@@ -1,0 +1,15 @@
+PODS:
+  - AvatarImageView (2.1.1)
+  - CommonCryptoModule (1.0.2)
+
+DEPENDENCIES:
+  - AvatarImageView (~> 2.1.0)
+  - CommonCryptoModule (~> 1.0.2)
+
+SPEC CHECKSUMS:
+  AvatarImageView: 50618694f9ce37d07fd0250145e733b34197fb5b
+  CommonCryptoModule: 63a68b57abed79655b3a01011419bf037a05b0a0
+
+PODFILE CHECKSUM: e061302002fcd8fca6920c6cf75076ba8fe26eee
+
+COCOAPODS: 1.4.0

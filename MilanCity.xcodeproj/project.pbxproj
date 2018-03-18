@@ -12,7 +12,28 @@
 		1F435CBA205DCC48004E39B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F435CB8205DCC48004E39B2 /* Main.storyboard */; };
 		1F435CBC205DCC48004E39B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F435CBB205DCC48004E39B2 /* Assets.xcassets */; };
 		1F435CBF205DCC48004E39B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F435CBD205DCC48004E39B2 /* LaunchScreen.storyboard */; };
+		36ED4164F6DF24812B8E09AC /* Pods_MilanCity.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 289D12D56DB277AC5817E974 /* Pods_MilanCity.framework */; };
 		7A315523205DD04E00883C12 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A315522205DD04E00883C12 /* Alamofire.framework */; };
+		7A315526205DD8D900883C12 /* TravellingViewControlleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A315525205DD8D900883C12 /* TravellingViewControlleTableViewCell.swift */; };
+		7A31552A205DF1C500883C12 /* TravellingCardTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A315529205DF1C500883C12 /* TravellingCardTableViewController.swift */; };
+		7A31552C205DF69E00883C12 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A31552B205DF69E00883C12 /* ProfileViewController.swift */; };
+		7A31552E205E136F00883C12 /* ArtEMuseumTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A31552D205E136F00883C12 /* ArtEMuseumTableViewController.swift */; };
+		7A315530205E1CC300883C12 /* ArtAndMuseum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A31552F205E1CC300883C12 /* ArtAndMuseum.swift */; };
+		7A315532205E209B00883C12 /* ArtAndMuseumDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A315531205E209B00883C12 /* ArtAndMuseumDataSource.swift */; };
+		7A315534205E21C100883C12 /* ArtAndMuseumTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A315533205E21C100883C12 /* ArtAndMuseumTableViewCell.swift */; };
+		7A315536205E2C1200883C12 /* BuyArtAndMuseumTicketTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A315535205E2C1200883C12 /* BuyArtAndMuseumTicketTableViewController.swift */; };
+		7A315538205E753400883C12 /* AddCreditCardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A315537205E753400883C12 /* AddCreditCardViewController.swift */; };
+		7A315544205E789700883C12 /* PaymentEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A31553A205E789200883C12 /* PaymentEndpoint.swift */; };
+		7A315545205E789700883C12 /* PaymentResponsePojo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A31553B205E789300883C12 /* PaymentResponsePojo.swift */; };
+		7A315546205E789700883C12 /* Payment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A31553C205E789300883C12 /* Payment.swift */; };
+		7A315548205E789700883C12 /* PaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A31553E205E789500883C12 /* PaymentResponse.swift */; };
+		7A315549205E789700883C12 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A31553F205E789500883C12 /* String.swift */; };
+		7A31554B205E789700883C12 /* Payment2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A315541205E789700883C12 /* Payment2.swift */; };
+		7A31554C205E789700883C12 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A315542205E789700883C12 /* Endpoint.swift */; };
+		7A31554F205E78F900883C12 /* EVReflection.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A31554E205E78F800883C12 /* EVReflection.framework */; };
+		7A315551205E791000883C12 /* EVReflection_CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A315550205E791000883C12 /* EVReflection_CloudKit.framework */; };
+		7A315553205E7F4C00883C12 /* NetworkObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A315552205E7F4C00883C12 /* NetworkObject.swift */; };
+		7A423F62205E8CB0009CB498 /* PaymentResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A423F61205E8CB0009CB498 /* PaymentResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +44,31 @@
 		1F435CBB205DCC48004E39B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F435CBE205DCC48004E39B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F435CC0205DCC48004E39B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		289D12D56DB277AC5817E974 /* Pods_MilanCity.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MilanCity.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A315522205DD04E00883C12 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
+		7A315525205DD8D900883C12 /* TravellingViewControlleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravellingViewControlleTableViewCell.swift; sourceTree = "<group>"; };
+		7A315529205DF1C500883C12 /* TravellingCardTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravellingCardTableViewController.swift; sourceTree = "<group>"; };
+		7A31552B205DF69E00883C12 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		7A31552D205E136F00883C12 /* ArtEMuseumTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtEMuseumTableViewController.swift; sourceTree = "<group>"; };
+		7A31552F205E1CC300883C12 /* ArtAndMuseum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtAndMuseum.swift; sourceTree = "<group>"; };
+		7A315531205E209B00883C12 /* ArtAndMuseumDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtAndMuseumDataSource.swift; sourceTree = "<group>"; };
+		7A315533205E21C100883C12 /* ArtAndMuseumTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtAndMuseumTableViewCell.swift; sourceTree = "<group>"; };
+		7A315535205E2C1200883C12 /* BuyArtAndMuseumTicketTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyArtAndMuseumTicketTableViewController.swift; sourceTree = "<group>"; };
+		7A315537205E753400883C12 /* AddCreditCardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCreditCardViewController.swift; sourceTree = "<group>"; };
+		7A31553A205E789200883C12 /* PaymentEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentEndpoint.swift; sourceTree = "<group>"; };
+		7A31553B205E789300883C12 /* PaymentResponsePojo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentResponsePojo.swift; sourceTree = "<group>"; };
+		7A31553C205E789300883C12 /* Payment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Payment.swift; sourceTree = "<group>"; };
+		7A31553E205E789500883C12 /* PaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentResponse.swift; sourceTree = "<group>"; };
+		7A31553F205E789500883C12 /* String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		7A315541205E789700883C12 /* Payment2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Payment2.swift; sourceTree = "<group>"; };
+		7A315542205E789700883C12 /* Endpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
+		7A31554D205E78BD00883C12 /* Project-BridgingHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Project-BridgingHeader.h"; sourceTree = "<group>"; };
+		7A31554E205E78F800883C12 /* EVReflection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EVReflection.framework; path = Carthage/Build/iOS/EVReflection.framework; sourceTree = "<group>"; };
+		7A315550205E791000883C12 /* EVReflection_CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EVReflection_CloudKit.framework; path = Carthage/Build/iOS/EVReflection_CloudKit.framework; sourceTree = "<group>"; };
+		7A315552205E7F4C00883C12 /* NetworkObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkObject.swift; sourceTree = "<group>"; };
+		7A423F61205E8CB0009CB498 /* PaymentResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentResultViewController.swift; sourceTree = "<group>"; };
+		DA2A2213069CD63C3418B901 /* Pods-MilanCity.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MilanCity.release.xcconfig"; path = "Pods/Target Support Files/Pods-MilanCity/Pods-MilanCity.release.xcconfig"; sourceTree = "<group>"; };
+		E6774751A5CF954B6F233410 /* Pods-MilanCity.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MilanCity.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MilanCity/Pods-MilanCity.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,7 +76,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A315551205E791000883C12 /* EVReflection_CloudKit.framework in Frameworks */,
+				7A31554F205E78F900883C12 /* EVReflection.framework in Frameworks */,
 				7A315523205DD04E00883C12 /* Alamofire.framework in Frameworks */,
+				36ED4164F6DF24812B8E09AC /* Pods_MilanCity.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +92,7 @@
 				1F435CB3205DCC48004E39B2 /* MilanCity */,
 				1F435CB2205DCC48004E39B2 /* Products */,
 				7A315521205DD04E00883C12 /* Frameworks */,
+				3495FAAB50DA770687E84B4B /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,19 +109,42 @@
 			children = (
 				7A315524205DD09800883C12 /* Endpoint */,
 				1F435CB4205DCC48004E39B2 /* AppDelegate.swift */,
+				7A31554D205E78BD00883C12 /* Project-BridgingHeader.h */,
 				1F435CB6205DCC48004E39B2 /* ViewController.swift */,
 				1F435CB8205DCC48004E39B2 /* Main.storyboard */,
 				1F435CBB205DCC48004E39B2 /* Assets.xcassets */,
 				1F435CBD205DCC48004E39B2 /* LaunchScreen.storyboard */,
 				1F435CC0205DCC48004E39B2 /* Info.plist */,
+				7A315525205DD8D900883C12 /* TravellingViewControlleTableViewCell.swift */,
+				7A315529205DF1C500883C12 /* TravellingCardTableViewController.swift */,
+				7A31552B205DF69E00883C12 /* ProfileViewController.swift */,
+				7A31552D205E136F00883C12 /* ArtEMuseumTableViewController.swift */,
+				7A31552F205E1CC300883C12 /* ArtAndMuseum.swift */,
+				7A315531205E209B00883C12 /* ArtAndMuseumDataSource.swift */,
+				7A315533205E21C100883C12 /* ArtAndMuseumTableViewCell.swift */,
+				7A315535205E2C1200883C12 /* BuyArtAndMuseumTicketTableViewController.swift */,
+				7A315537205E753400883C12 /* AddCreditCardViewController.swift */,
+				7A423F61205E8CB0009CB498 /* PaymentResultViewController.swift */,
 			);
 			path = MilanCity;
+			sourceTree = "<group>";
+		};
+		3495FAAB50DA770687E84B4B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E6774751A5CF954B6F233410 /* Pods-MilanCity.debug.xcconfig */,
+				DA2A2213069CD63C3418B901 /* Pods-MilanCity.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		7A315521205DD04E00883C12 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				7A315550205E791000883C12 /* EVReflection_CloudKit.framework */,
+				7A31554E205E78F800883C12 /* EVReflection.framework */,
 				7A315522205DD04E00883C12 /* Alamofire.framework */,
+				289D12D56DB277AC5817E974 /* Pods_MilanCity.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -80,6 +152,14 @@
 		7A315524205DD09800883C12 /* Endpoint */ = {
 			isa = PBXGroup;
 			children = (
+				7A315542205E789700883C12 /* Endpoint.swift */,
+				7A31553C205E789300883C12 /* Payment.swift */,
+				7A315541205E789700883C12 /* Payment2.swift */,
+				7A31553A205E789200883C12 /* PaymentEndpoint.swift */,
+				7A31553E205E789500883C12 /* PaymentResponse.swift */,
+				7A31553B205E789300883C12 /* PaymentResponsePojo.swift */,
+				7A31553F205E789500883C12 /* String.swift */,
+				7A315552205E7F4C00883C12 /* NetworkObject.swift */,
 			);
 			path = Endpoint;
 			sourceTree = "<group>";
@@ -91,10 +171,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1F435CC3205DCC48004E39B2 /* Build configuration list for PBXNativeTarget "MilanCity" */;
 			buildPhases = (
+				5A9B22232ABEDFC8A55E8A69 /* [CP] Check Pods Manifest.lock */,
 				1F435CAD205DCC48004E39B2 /* Sources */,
 				1F435CAE205DCC48004E39B2 /* Frameworks */,
 				1F435CAF205DCC48004E39B2 /* Resources */,
 				7A315520205DD02C00883C12 /* Run Script */,
+				78F534DCBFA264D62BF97FE2 /* [CP] Embed Pods Frameworks */,
+				871C9FCACA41922E10C6E136 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -153,6 +236,44 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		5A9B22232ABEDFC8A55E8A69 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MilanCity-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		78F534DCBFA264D62BF97FE2 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-MilanCity/Pods-MilanCity-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AvatarImageView/AvatarImageView.framework",
+				"${BUILT_PRODUCTS_DIR}/CommonCryptoModule/CommonCryptoModule.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AvatarImageView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CommonCryptoModule.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MilanCity/Pods-MilanCity-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		7A315520205DD02C00883C12 /* Run Script */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -160,14 +281,33 @@
 			);
 			inputPaths = (
 				"$(SRCROOT)/Carthage/Build/iOS/Alamofire.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/EVReflection.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/EVReflection_CloudKit.framework",
 			);
 			name = "Run Script";
 			outputPaths = (
 				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/Alamofire.framework",
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/EVReflection_CloudKit.framework",
+				"$(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/EVReflection.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "/usr/local/bin/carthage copy-frameworks";
+		};
+		871C9FCACA41922E10C6E136 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MilanCity/Pods-MilanCity-resources.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -176,8 +316,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A315532205E209B00883C12 /* ArtAndMuseumDataSource.swift in Sources */,
+				7A31554B205E789700883C12 /* Payment2.swift in Sources */,
+				7A315548205E789700883C12 /* PaymentResponse.swift in Sources */,
+				7A315526205DD8D900883C12 /* TravellingViewControlleTableViewCell.swift in Sources */,
+				7A315544205E789700883C12 /* PaymentEndpoint.swift in Sources */,
 				1F435CB7205DCC48004E39B2 /* ViewController.swift in Sources */,
+				7A315553205E7F4C00883C12 /* NetworkObject.swift in Sources */,
+				7A31554C205E789700883C12 /* Endpoint.swift in Sources */,
+				7A315546205E789700883C12 /* Payment.swift in Sources */,
+				7A31552C205DF69E00883C12 /* ProfileViewController.swift in Sources */,
+				7A315545205E789700883C12 /* PaymentResponsePojo.swift in Sources */,
+				7A315536205E2C1200883C12 /* BuyArtAndMuseumTicketTableViewController.swift in Sources */,
+				7A423F62205E8CB0009CB498 /* PaymentResultViewController.swift in Sources */,
+				7A315530205E1CC300883C12 /* ArtAndMuseum.swift in Sources */,
+				7A31552E205E136F00883C12 /* ArtEMuseumTableViewController.swift in Sources */,
+				7A315549205E789700883C12 /* String.swift in Sources */,
+				7A315534205E21C100883C12 /* ArtAndMuseumTableViewCell.swift in Sources */,
+				7A315538205E753400883C12 /* AddCreditCardViewController.swift in Sources */,
 				1F435CB5205DCC48004E39B2 /* AppDelegate.swift in Sources */,
+				7A31552A205DF1C500883C12 /* TravellingCardTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +470,7 @@
 		};
 		1F435CC4205DCC48004E39B2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E6774751A5CF954B6F233410 /* Pods-MilanCity.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -324,6 +483,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.Pimpi.MilanCity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = "MilanCity/Project-BridgingHeader.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -331,6 +491,7 @@
 		};
 		1F435CC5205DCC48004E39B2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA2A2213069CD63C3418B901 /* Pods-MilanCity.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -343,6 +504,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.Pimpi.MilanCity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = "MilanCity/Project-BridgingHeader.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
