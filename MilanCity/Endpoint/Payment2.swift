@@ -10,16 +10,6 @@ import Foundation
 import EVReflection
 import Alamofire
 
-//
-//  User.swift
-//  LogUp
-//
-//  Created by Antonio Seveso on 17/11/2017.
-//  Copyright © 2017 LogUp Inc. All rights reserved.
-//
-
-
-
 
 class Payment2{
     
@@ -28,9 +18,7 @@ class Payment2{
     var codiceTransazione: String? = nil
     var importo: String? = nil //given
     var divisa: String? = nil
-    //var pan: String? = nil //given
     var scadenza: String? = nil //given
-    //var cvv: String? = nil //given
     var numeroContratto: String? = nil //given
     var timeStamp: String? = nil
     var mac: String? = nil
@@ -52,9 +40,7 @@ class Payment2{
         
         self.importo = importo
         self.divisa = "978"
-        //self.pan = pan
         self.scadenza = scadenza
-        //self.cvv = cvv
         self.numeroContratto = numeroContratto
         
         self.timeStamp = String(Int(NSDate().timeIntervalSince1970 * 1000))

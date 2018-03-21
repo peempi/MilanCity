@@ -1,9 +1,9 @@
 //
-//  UserEndpoint.swift
-//  LogUp
+//  Payment.swift
+//  MilanCity
 //
-//  Created by Antonio Seveso on 17/11/2017.
-//  Copyright © 2017 LogUp Inc. All rights reserved.
+//  Created by francesco frontino on 18/03/18.
+//  Copyright © 2018 Pimpi. All rights reserved.
 //
 
 import Foundation
