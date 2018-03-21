@@ -1,1 +1,2 @@
 github "Alamofire/Alamofire" "4.7.0"
+github "evermeer/EVReflection" "5.5.5"

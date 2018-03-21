@@ -1,0 +1,4 @@
+framework module EVReflection_CloudKit {
+    header "EVReflection_CloudKit-Swift.h"
+    requires objc
+}

@@ -1,2 +1,5 @@
 #For API
 github "Alamofire/Alamofire" ~> 4.5
+
+# For Pojo
+github "evermeer/EVReflection" ~> 5.1.6 #== 5.4.5
